@@ -28,11 +28,13 @@ function start()
     console.log(randomHaiku())
 
 }
-function studentHaiku1(){
-    console.log("haiku by:","Docent");
-    console.log("Panda in the mist");
-    console.log("Gently chewing on bamboo");
-    console.log("Perfect breakfast time");
+
+
+function student2haiku(){
+    console.log("haiku by:","klaas");
+    console.log("aapjes in de bos");
+    console.log("Gently chewing on banaan");
+    console.log("Perfect dinner time");
 }
 
 start()
