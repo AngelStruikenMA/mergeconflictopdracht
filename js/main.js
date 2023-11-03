@@ -28,5 +28,10 @@ function start()
     console.log(randomHaiku())
 
 }
-
+function student2haiku(){
+    console.log("haiku by:","klaas");
+    console.log("aapjes in de bos");
+    console.log("Gently chewing on banaan");
+    console.log("Perfect dinner time");
+}
 start()
